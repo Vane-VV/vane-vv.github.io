@@ -1,0 +1,66 @@
+
+/* Nav-bar */
+#navbar {
+    overflow: hidden;
+    background-color: #333;
+    padding: 5px;
+  }
+  
+  #navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+  }
+  
+  .content {
+    padding: 16px;
+  }
+  
+  /* .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  } */
+  
+  /* .sticky + .content {
+    padding-top: 60px;
+  } */
+
+
+
+/* img's */
+.pfp {
+    width: 10em;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.projects {
+    width: 20em;
+    padding: 10px;
+}
+
+Body{
+    background-color: rgb(190, 190, 190);
+}
+
+main{
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+footer{
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+/* media queries */
+@media (min-width:768px ) {
+
+
+}
