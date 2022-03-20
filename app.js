@@ -3,7 +3,4 @@ console.log(thanks);
 
 thanks.addEventListener('click', () => {
   thanks.textContent = 'Thank you for reading!';  
-                        })
-
-
-
+});
